@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+
+
+.center-div{
+    padding-top: 10%;
+}
+
+.btn.btn-success{
+    padding: .4em 2em;
+    background-color:rgba(134,122,254,255);
+    border-radius: 0px;
+}
+
+body {
+    font-family: 'Poppins', sans-serif;
+    background-image: url('/assets/wepik-lilac-gradient-technology-youtube-channel-art-20230908170349z6wO.png');
+    opacity: 50;
+}
+
+
+form{
+    padding: 0 3em;
+}
+
+#login .title > span {
+    font-size: .8em;
+}
+
+.container{
+    background-color: rgb(255, 255, 255);
+    border-radius: 20px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.5); 
+}
